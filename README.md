@@ -8,7 +8,7 @@ Randomized order of characters for enhanced security.
 Simple and user-friendly command-line interface.
 
 #How It Works
->The user specifies how many letters, symbols, and numbers they want in their password.
->The script generates random characters from the specified categories.
->All characters are then shuffled to ensure the password is randomized.
->The final password is displayed to the user.
+The user specifies how many letters, symbols, and numbers they want in their password.
+The script generates random characters from the specified categories.
+All characters are then shuffled to ensure the password is randomized.
+The final password is displayed to the user.
